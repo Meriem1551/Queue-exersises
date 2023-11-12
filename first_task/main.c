@@ -1,4 +1,4 @@
-#include "queue.h"
+#include "queue1.h"
 
 /**
  * main - checks the code
